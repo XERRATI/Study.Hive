@@ -27,7 +27,7 @@ Your website should open at:
 
 For permission, feedback, bugs, school use, collaboration, business, or anything about Study Hive:
 
-omphemetse.mogale0409@gmail.com
+studyhive.co.za@gmail.com
 
 ## Ownership notice
 
