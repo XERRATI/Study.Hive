@@ -1,0 +1,12 @@
+{
+  "name": "Study Hive",
+  "short_name": "Study Hive",
+  "description": "A honey-themed study dashboard with countdowns, focus, flashcards, Hive Coach and Garden World.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4ead9",
+  "theme_color": "#f4c430",
+  "icons": [
+    {"src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Crect width='128' height='128' rx='28' fill='%23f4c430'/%3E%3Ctext x='64' y='82' font-size='64' text-anchor='middle'%3E%F0%9F%90%9D%3C/text%3E%3C/svg%3E", "sizes": "128x128", "type": "image/svg+xml"}
+  ]
+}
